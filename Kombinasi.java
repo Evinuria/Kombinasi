@@ -28,7 +28,7 @@ public class Kombinasi {
             s=s-1;
             }
         kombinasi= fa/(fb*fc);
-        System.out.println("Banyaknya cara \t:"+kombinasi);
+        System.out.println("Banyaknya kemungkinan \t:"+kombinasi);
     }
 }
 }
